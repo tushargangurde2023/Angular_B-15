@@ -73,8 +73,48 @@ background-color: rgb(6, 19, 25);
     color:rgb(246, 230, 230);
     margin-left: 40px;
 }
+.downld-btns{
+    border:1px solid;
+    border-color: rgb(238, 95, 7) ;
+    background-color: rgb(238, 72, 7);
+    border-radius: 8px;
+     color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    /* width: 100px; */
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top:8px ;
+    padding-bottom: 8px;
+    justify-content:space-between;
+    /* margin-left: 5px; */
+    } 
+    .downld-btns:hover{
+        color:black;
+    }
 /* third section */
-
+.learn-btn{
+    border:1px solid;
+    border-color: rgb(238, 95, 7) ;
+    background-color: rgb(238, 72, 7);
+    border-radius: 8px;
+     color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    /* width: 100px; */
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top:8px ;
+    padding-bottom: 8px;
+    justify-content:space-between;
+}
+.learn-btn:hover{
+    color:black;
+}
 .text-p{
     color: gainsboro;
 }
