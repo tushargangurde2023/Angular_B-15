@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+}
+#firstcol{
+    background: url(../pics/fabric-background.jpg);
+}
+
+#second-col{
+    background: url(../pics/school-stationery-yellow-background-top.jpg);
+    }
+.bi-facebook{
+    color: blue;
+}
+.bi-instagram{
+    color: rgb(202, 83, 107);
+} 
+.bi-linkedin{
+    color: blue;
+}
+.bi-twitter{
+    color: rgb(100, 100, 233);
+}
+.icons{
+    margin-top: 50px;
+}
+.mt-2{
+    margin-top: 80px;
+    font-family: 'Chivo Mono', monospace;
+}
+a:hover{
+    color: crimson;
+}
+#name{
+    font-family: 'Lobster', cursive;
+}
+p:hover{
+    color: darkorange;
+}
+h4:hover{
+    color: darkgoldenrod;
+}
+.btn{
+    color:white;
+    background-color: rgb(66, 35, 35);
+}
+h5{
+    font-family: 'Satisfy', cursive;
+}
+.btn{
+    font-family: 'Satisfy', cursive;
+}
+.right-section{
+    text-align-last: right;
+    margin-top: 300px;
+    margin-right: 70px;
+}
