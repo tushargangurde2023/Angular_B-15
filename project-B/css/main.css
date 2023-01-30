@@ -264,4 +264,194 @@ border-bottom-color: white;
     .p5_8{
         margin-top: 30px;
     }
+    /* new section */
+    .test-h{
+        color:rgb(255, 255, 255);
+    }
+    .flex{
+        display: flex;
+        border-style: solid;
+        border-width: 1px;
+        border-color: rgb(75, 63, 63);
+        border-radius: 5px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+    .lorem{
+        border-style: solid;
+        border-width: 1px;
+        border-color:rgb(75, 65, 65);
+        border-radius: 5px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        padding-right: 20px;
+        font-family:"Rajdhani", sans-serif;
+        line-height: 1.5;
+    }
+    .wilkinson{
+        padding-left: 10px;
+    }
+    .testimonial-img img{
+        border-radius: 10px;
+    }
+    .text-center{
+        margin-top: 100px;
+        margin-bottom: 50px;
+    }
+    .text-white{
+        font-family:"Rajdhani", sans-serif;
+
+    }
+    /*form-section */
+     /* .form-a{
+        display: flex;
+        
+    } */
+
+    #form-sec{
+        margin-top: 100px;
+        
+    }
+    .cont{
+        color: #dddddd;
+    }
+    .form-area{
+        margin-top: 50px;
+    }
+    .head-sec{
+        margin-top: 30px;
+    }
+    .sub{
+        margin-top: 20px;
+    }
+    .msg{
+        margin-top: 20px;
+    }
+    .flx-sec{
+        display: flex;
+        
+    }
+    .send-btn{
+        margin-top: 20px;
+    }
+    .mail{
+        margin-left:18px ;
+        width: 300px;
+        color: black;
+    }
+    .name{
+        width: 300px;
+    }
+    .messge{
+        height: 140px;
+        width: 620px;
+    }
+    .subj{
+        width: 620px;
+        border-style: none;
+
+    }
+    /* pc-block-section */
+    .text-content{
+        /* display:inline; */
+        background-color: #0c0b0b;
+        width: 415px;
+        text-align: left;
+    }
+    .bottom-cont{
+        display: flex;
+        margin-top: 10px;
+    }
+  
+    .read-more{
+        text-align: end;
+        margin-left: 200px;
+    }
+    .pc-text-a{
+        padding-top: 30px;
+        padding-left: 25px;
+        border-bottom: 1px solid;
+        border-color: #f1f1f1;
+        border-spacing:0vmin;
+        padding-bottom: 30px;
+    }
+    .date{
+        margin-left: 20px;
+        /* margin-top: 20px; */
+        /* align-items: baseline; */
+        padding-bottom: 0px;
+        
+    }
+    #newsfeed{
+        padding-bottom: 0px;
+        /* padding-top: 200px; */
+    }
+    .drive-text{
+        color: #dddddd;
+    }
+  /* last section */
+  .porichiti-logo img{
+    height: 50px;
+    width: 180px
+  }
+  .col-2-1{
+    width: 200px;
+  }
+  .col-3-1{
+    width: 200px;
+  }
+  .col-4-1{
+    width: 200px;
+  }
+  .col-5-1{
+    width: 200px;
+  }
+  .footer-sec{
+    display: flex;
+    margin-top: 30px;
+  }
+  .footer-area{
+    border-bottom: 1px solid;
+    border-color: #f1f1f1;
+    background-color: #111;
+    margin-top: 70px;
+
+    
+  }
+  .footercart img{
+    text-align: end;
+    margin-left: 500px;
+  }
+  .por{
+    color: #f55b08;
+  }
+  .icons{
+    color: aliceblue;
    
+  }
+  .bi{
+    width: 60px;
+  }
+  .footer-area-bottom{
+    background-color: #111;
+  }
+  #before-footer{
+    padding-top: 80px;
+  }
+  #last-text{
+    margin-bottom: 80px;
+  }
+  .p-icons{
+    padding-top: 20px;
+  }
+  .last-text{
+    margin-top: 20px;
+  }
+  .address{
+    margin-top: 20px;
+  }
+  .app-store{
+    margin-top: 15px;
+  }
